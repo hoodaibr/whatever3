@@ -1,3 +1,3 @@
 object test {
-println("sup")
+println("sup guys")
 }
