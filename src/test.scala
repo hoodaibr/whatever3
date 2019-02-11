@@ -1,4 +1,3 @@
 object test {
-println("sup guys")
-println("I got it")
+println("sup guys?")
 }
